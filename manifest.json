@@ -1,0 +1,10 @@
+{
+  "name": "MEME PAGE",
+  "description": "MEME EXTENSION:)",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "Pagina.html",
+    "default_icon": "TraleloTralala.png"
+  }
+}
